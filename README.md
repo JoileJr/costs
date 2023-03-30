@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Como rodar
 
-### npm run backend
-### npm start
+### `npm run backend`
+### `npm start`
 
