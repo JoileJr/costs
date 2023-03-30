@@ -2,13 +2,20 @@
   "projects": [
     {
       "name": "House Barber",
-      "budget": "2000",
+      "budget": "3000",
       "category": {
-        "id": "3",
-        "name": "Desenvolvimento"
+        "id": "2",
+        "name": "Desing"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 500,
+      "services": [
+        {
+          "name": "Prototipação",
+          "cost": "500",
+          "description": "criação do protótipo das telas do projeto",
+          "id": "4553eb7c-7d84-43e7-b3f6-9d5bd87855d7"
+        }
+      ],
       "id": 1
     }
   ],
